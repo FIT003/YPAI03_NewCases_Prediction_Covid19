@@ -52,11 +52,15 @@ pip install pandas numpy tensorflow matplotlib scikit-learn
 
 ## Outputs
 
+- loss
+![epoch_loss](https://github.com/FIT003/YPAI03_NewCases_Prediction_Covid19/assets/97938451/1977faa2-ab03-404f-aab6-6e1d01a8e6a4)
 
+- evaluation loss vs iteration
+![evaluation_loss_vs_iteration](https://github.com/FIT003/YPAI03_NewCases_Prediction_Covid19/assets/97938451/5d1e1b90-9fc9-44b1-942f-1bf24a0bc942)
 
+- actual vs predicted
 
-
-
+![actual_vs_predicted](https://github.com/FIT003/YPAI03_NewCases_Prediction_Covid19/assets/97938451/0890c6b3-aede-469b-8272-bd4fccd49d31)
 
 ## Credit
 URL: https://github.com/MoH-Malaysia/covid19-public
