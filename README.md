@@ -50,6 +50,7 @@ pip install pandas numpy tensorflow matplotlib scikit-learn
 - Model evaluation: Evaluates the model's performance by plotting loss and mean absolute percentage error (MAPE) metrics.
 - Model deployment: Uses the trained model to predict new cases on the testing data and plots a graph comparing the actual and predicted new cases.
 
+## Outputs
 
 
 
@@ -58,7 +59,7 @@ pip install pandas numpy tensorflow matplotlib scikit-learn
 
 
 ## Credit
-
+URL: https://github.com/MoH-Malaysia/covid19-public
 
 
 
